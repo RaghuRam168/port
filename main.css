@@ -343,10 +343,6 @@ a:hover{
      text-shadow: 1px 1px green;
  }
 
-
-
-
-
  #Service{
     height: 106vh;
     width:auto;
@@ -401,9 +397,9 @@ a:hover{
     background-repeat: no-repeat;
     box-shadow: 0 4px 8px 0 rgba(245, 244, 244, 0.2);
 }
-.card-item-wd:hover{
+/*.card-item-wd:hover{
     box-shadow: 0 5px 8px 0 rgba(7, 7, 7, 0.2);
-}
+}*/
 .card-item-ad{
     background-image: url(img/facebook.png);
     height: 200px;
@@ -444,11 +440,6 @@ a:hover{
     background-color:rgb(72, 217, 243);
     box-shadow: 10px 15px 18px 0 rgba(255, 255, 255, 0.2);
 }
-
-
-
-
-
  #Project{
     height: 106vh;
     width:auto;
@@ -551,3 +542,9 @@ a:hover{
     width: 550px;
     background-color: rgb(255, 115, 0);
  }
+
+
+
+
+
+ 
